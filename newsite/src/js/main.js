@@ -394,6 +394,8 @@ $(document).ready(function() {
             } else {
                 alert(data);
             }
+            
+            $('#subscribe-email-fld').val('');
         });
     });
 
